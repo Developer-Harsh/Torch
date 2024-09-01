@@ -1,16 +1,22 @@
-# torch
+# Torch App
 
-Torch app to brighten the world
+It's an simple application developed in flutter by using dart language to turn on or off flashlight, there we implemented 2 images one for when torch is off and second for when torch is on.
 
-## Getting Started
+## 
+Swipe to turn on or off flashlight
+Simple and Clean code
 
-This project is a starting point for a Flutter application.
+## Screenshots
 
-A few resources to get you started if this is your first Flutter project:
+Here are some screenshots of the Torch app:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<div align="center">
+    <img src="https://raw.githubusercontent.com/Developer-Harsh/Torch/master/Torch/ss%20(1).png" alt="Screenshot 1" height="300" />
+    <img src="https://raw.githubusercontent.com/Developer-Harsh/Torch/master/Torch/ss%20(2).png" alt="Screenshot 2" height="300" />
+</div>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Social Media
+
+Follow us on social media for updates and promotions:
+
+- Instagram: [_developer_harsh_](https://instagram.com/_developer_harsh_)
